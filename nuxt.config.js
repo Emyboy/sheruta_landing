@@ -12,7 +12,20 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: [
+    'assets/css/bootstrap.min.css',
+    'assets/css/animate.min.css',
+    'assets/css/meanmenu.css',
+    'assets/css/boxicons.min.css',
+    'assets/css/flaticon.css',
+    'assets/css/odometer.min.css',
+    'assets/css/nice-select.min.css',
+    'assets/css/magnific-popup.min.css',
+    'assets/css/fancybox.min.css',
+    'assets/css/style.css',
+    'assets/css/dark.css',
+    'assets/css/responsive.css',
+  ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
