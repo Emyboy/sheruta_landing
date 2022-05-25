@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'sheruta_landing',
+    title: 'Sheruta NG',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -20,10 +20,12 @@ export default {
     'assets/css/flaticon.css',
     'assets/css/odometer.min.css',
     'assets/css/nice-select.min.css',
+    'assets/css/owl.carousel.min.css',
+    'assets/css/owl.theme.default.min.css',
     'assets/css/magnific-popup.min.css',
     'assets/css/fancybox.min.css',
     'assets/css/style.css',
-    'assets/css/dark.css',
+    // 'assets/css/dark.css',
     'assets/css/responsive.css',
   ],
 
@@ -39,7 +41,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
-    'bootstrap-vue/nuxt',
+    // 'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
