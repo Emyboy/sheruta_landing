@@ -28,7 +28,7 @@ Default CSS
   left: 0;
   right: 0;
   bottom: 0;
-  background: #fe5631;
+  background: #10d876;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -53,12 +53,12 @@ Default CSS
 }
 
 .switch-box input:checked + .slider {
-  background-color: #fe5631;
+  background-color: #10d876;
 }
 
 .switch-box input:focus + .slider {
-  -webkit-box-shadow: 0 0 1px #fe5631;
-          box-shadow: 0 0 1px #fe5631;
+  -webkit-box-shadow: 0 0 1px #10d876;
+          box-shadow: 0 0 1px #10d876;
 }
 
 .switch-box input:checked + .slider:before {
@@ -107,7 +107,7 @@ Default CSS
 }
 
 .theme-dark p a:hover {
-  color: #fe5631 !important;
+  color: #10d876 !important;
 }
 
 .theme-dark .h1, .theme-dark .h2, .theme-dark .h3, .theme-dark .h4, .theme-dark .h5, .theme-dark .h6, .theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {
@@ -119,7 +119,7 @@ Default CSS
 }
 
 .theme-dark .h1 a:hover, .theme-dark .h2 a:hover, .theme-dark .h3 a:hover, .theme-dark .h4 a:hover, .theme-dark .h5 a:hover, .theme-dark .h6 a:hover, .theme-dark h1 a:hover, .theme-dark h2 a:hover, .theme-dark h3 a:hover, .theme-dark h4 a:hover, .theme-dark h5 a:hover, .theme-dark h6 a:hover {
-  color: #fe5631 !important;
+  color: #10d876 !important;
 }
 
 .theme-dark .main-navbar {
@@ -131,11 +131,11 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item:hover a, .theme-dark .main-navbar .navbar .navbar-nav .nav-item.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -147,7 +147,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
   letter-spacing: 1px;
 }
 
@@ -161,7 +161,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -169,7 +169,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -177,7 +177,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -185,7 +185,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -193,7 +193,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -201,31 +201,31 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .user-box a i {
@@ -234,9 +234,9 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .others-options .option-item .user-box a i:hover {
-  background-color: #fe5631;
+  background-color: #10d876;
   color: #ffffff;
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .main-navbar .navbar .others-options-with-search {
@@ -266,7 +266,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .others-options-with-search .option-item .search-box .input-search:focus {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .main-navbar .navbar .others-options-with-search .option-item .search-box .input-search:focus::-webkit-input-placeholder {
@@ -286,7 +286,7 @@ Default CSS
 }
 
 .theme-dark .main-navbar .navbar .others-options-with-search .option-item .search-box button {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .navbar-with-black-color .main-navbar {
@@ -298,11 +298,11 @@ Default CSS
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item a:hover, .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item a:focus, .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item a.active {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item:hover a, .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item.active a {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a {
@@ -310,7 +310,7 @@ Default CSS
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .navbar-with-black-color .main-navbar .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #fe5631;
+  color: #10d876;
   letter-spacing: 1px;
 }
 
@@ -320,9 +320,9 @@ Default CSS
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .others-options .option-item .user-box a i:hover {
-  background-color: #fe5631;
+  background-color: #10d876;
   color: #ffffff;
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .navbar-with-black-color .main-navbar .navbar .others-options-with-search {
@@ -367,7 +367,7 @@ Default CSS
 }
 
 .theme-dark .main-banner-list-tab .tabs li.current {
-  background-color: #fe5631;
+  background-color: #10d876;
   color: #ffffff;
 }
 
@@ -423,7 +423,7 @@ Default CSS
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select {
@@ -441,7 +441,7 @@ Default CSS
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select .list .option:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -451,7 +451,7 @@ Default CSS
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select .list .option.focus, .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select .list .option.selected.focus {
   background-color: transparent !important;
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select .list .option.selected::before {
@@ -460,7 +460,7 @@ Default CSS
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select .list .option.selected:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -469,12 +469,12 @@ Default CSS
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select:after {
-  border-bottom: 1px solid #fe5631;
-  border-right: 1px solid #fe5631;
+  border-bottom: 1px solid #10d876;
+  border-right: 1px solid #10d876;
 }
 
 .theme-dark .main-banner-list-tab .main-banner-search-form form .form-group .nice-select:hover {
-  border-color: #fe5631;
+  border-color: #10d876;
   background-color: transparent;
 }
 
@@ -504,7 +504,7 @@ Default CSS
 
 .theme-dark .featured-item .featured-image .price {
   background-color: #0e0e0e;
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .featured-item .featured-top-content h3 a {
@@ -512,7 +512,7 @@ Default CSS
 }
 
 .theme-dark .featured-item .featured-top-content h3 a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .featured-item .featured-top-content p span {
@@ -548,7 +548,7 @@ Default CSS
 }
 
 .theme-dark .single-new-added-properties .properties-content h3 a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .single-new-added-properties .properties-content .list li {
@@ -601,7 +601,7 @@ Default CSS
 }
 
 .theme-dark .blog-item .blog-bottom-content .blog-author span a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .blog-item .blog-bottom-content p {
@@ -614,7 +614,7 @@ Default CSS
 }
 
 .theme-dark .slides-list-tab .tabs li.current {
-  background-color: #fe5631;
+  background-color: #10d876;
   color: #ffffff;
 }
 
@@ -670,7 +670,7 @@ Default CSS
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select {
@@ -688,7 +688,7 @@ Default CSS
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select .list .option:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -698,7 +698,7 @@ Default CSS
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select .list .option.focus, .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select .list .option.selected.focus {
   background-color: transparent !important;
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select .list .option.selected::before {
@@ -707,7 +707,7 @@ Default CSS
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select .list .option.selected:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -716,12 +716,12 @@ Default CSS
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select:after {
-  border-bottom: 1px solid #fe5631;
-  border-right: 1px solid #fe5631;
+  border-bottom: 1px solid #10d876;
+  border-right: 1px solid #10d876;
 }
 
 .theme-dark .slides-list-tab .main-slides-search-form form .form-group .nice-select:hover {
-  border-color: #fe5631;
+  border-color: #10d876;
   background-color: transparent;
 }
 
@@ -878,7 +878,7 @@ Default CSS
 }
 
 .theme-dark .blog-side-item .blog-content .bottom-content .blog-author span a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .pagination-area .page-numbers {
@@ -890,7 +890,7 @@ Default CSS
 
 .theme-dark .pagination-area .page-numbers:hover, .theme-dark .pagination-area .page-numbers.current {
   color: #ffffff;
-  background-color: #fe5631;
+  background-color: #10d876;
 }
 
 .theme-dark .page-banner-area {
@@ -906,11 +906,11 @@ Default CSS
 }
 
 .theme-dark .page-banner-content ul li a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .page-banner-content ul li::before {
-  background-color: #fe5631;
+  background-color: #10d876;
 }
 
 .theme-dark .property-details-desc .details-content {
@@ -1050,7 +1050,7 @@ Default CSS
 }
 
 .theme-dark .widget-area .widget_categories ul li a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .widget-area .widget_fido_posts_thumb {
@@ -1058,7 +1058,7 @@ Default CSS
 }
 
 .theme-dark .widget-area .widget_fido_posts_thumb .item .info span {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .widget-area .widget_tag_cloud {
@@ -1131,7 +1131,7 @@ Default CSS
 }
 
 .theme-dark .widget-area .widget_fido_property .item .info span {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .widget-area .widget_top-properties {
@@ -1164,7 +1164,7 @@ Default CSS
 }
 
 .theme-dark .case-study-details-information ul li a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .case-study-details-information ul li:last-child {
@@ -1230,7 +1230,7 @@ Default CSS
 }
 
 .theme-dark .single-pricing-table:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .properties-list-tab .tabs li {
@@ -1239,7 +1239,7 @@ Default CSS
 }
 
 .theme-dark .properties-list-tab .tabs li.current {
-  background-color: #fe5631;
+  background-color: #10d876;
   color: #ffffff;
 }
 
@@ -1295,7 +1295,7 @@ Default CSS
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select {
@@ -1313,7 +1313,7 @@ Default CSS
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select .list .option:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -1323,7 +1323,7 @@ Default CSS
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select .list .option.focus, .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select .list .option.selected.focus {
   background-color: transparent !important;
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select .list .option.selected::before {
@@ -1332,7 +1332,7 @@ Default CSS
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select .list .option.selected:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -1341,12 +1341,12 @@ Default CSS
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select:after {
-  border-bottom: 1px solid #fe5631;
-  border-right: 1px solid #fe5631;
+  border-bottom: 1px solid #10d876;
+  border-right: 1px solid #10d876;
 }
 
 .theme-dark .properties-list-tab .properties-search-form form .form-group .nice-select:hover {
-  border-color: #fe5631;
+  border-color: #10d876;
   background-color: transparent;
 }
 
@@ -1401,7 +1401,7 @@ Default CSS
 }
 
 .theme-dark .submit-property-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .submit-property-form form .form-group .form-control-file {
@@ -1443,7 +1443,7 @@ Default CSS
 }
 
 .theme-dark .submit-property-form form .form-group .form-control-file:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select {
@@ -1461,7 +1461,7 @@ Default CSS
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select .list .option:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -1471,7 +1471,7 @@ Default CSS
 
 .theme-dark .submit-property-form form .form-group .nice-select .list .option.focus, .theme-dark .submit-property-form form .form-group .nice-select .list .option.selected.focus {
   background-color: transparent !important;
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select .list .option.selected::before {
@@ -1480,7 +1480,7 @@ Default CSS
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select .list .option.selected:hover {
-  background-color: #fe5631 !important;
+  background-color: #10d876 !important;
   color: #ffffff;
 }
 
@@ -1489,12 +1489,12 @@ Default CSS
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select:after {
-  border-bottom: 1px solid #fe5631;
-  border-right: 1px solid #fe5631;
+  border-bottom: 1px solid #10d876;
+  border-right: 1px solid #10d876;
 }
 
 .theme-dark .submit-property-form form .form-group .nice-select:hover {
-  border-color: #fe5631;
+  border-color: #10d876;
   background-color: transparent;
 }
 
@@ -1554,7 +1554,7 @@ Default CSS
 }
 
 .theme-dark .login-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .login-form form .remember-me-wrap [type="checkbox"]:checked + label, .theme-dark .login-form form .remember-me-wrap [type="checkbox"]:not(:checked) + label {
@@ -1612,7 +1612,7 @@ Default CSS
 }
 
 .theme-dark .register-form form .form-group .form-control:hover {
-  border: 1px solid #fe5631;
+  border: 1px solid #10d876;
 }
 
 .theme-dark .contact-form .form-group label {
@@ -1666,7 +1666,7 @@ Default CSS
 }
 
 .theme-dark .contact-address .address-info li a:hover {
-  color: #fe5631;
+  color: #10d876;
 }
 
 .theme-dark .blog-details-desc .article-content {
@@ -1706,7 +1706,7 @@ Default CSS
 }
 
 .theme-dark .blog-details-desc .article-comments .comments-list .reply-btn:hover {
-  color: #fe5631;
+  color: #10d876;
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
